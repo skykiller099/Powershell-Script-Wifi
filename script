@@ -1,0 +1,10 @@
+$profiles = (netsh wlan show profiles | Select-String "All User Profile").line -replace ".*: ",""
+foreach ($ssid in $profiles) {
+    $password = (netsh wlan show profile name="$ssid" key clear | Select-String "Key Content").line -replace ".*: ",""
+    if ($password) {
+        $password = $password.line -replace ".*: ",""
+    } else {
+        $password = "Not Available"
+    }
+    Write-Output "SSID: $ssid | Password: $password"
+}
