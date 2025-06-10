@@ -77,7 +77,7 @@ R : Non, le script ne stocke rien, il affiche simplement les informations récup
 ## 🤝 Contribuer
 
 Les contributions sont les bienvenues !  
-- **Signalez un bug ou proposez une amélioration** via [Issues](https://github.com/Skyk099/Powershell-Script-Wifi/issues)
+- **Signalez un bug ou proposez une amélioration** via [Issues](https://github.com/Skykiller099/Powershell-Script-Wifi/issues)
 - **Proposez une Pull Request** pour ajouter des fonctionnalités ou corriger des erreurs.
 
 ---
@@ -92,7 +92,7 @@ Les contributions sont les bienvenues !
 ## 📄 Licence
 
 Ce projet est sous licence MIT.  
-Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
+Voir le fichier [LICENSE](https://github.com/Skykiller099/Powershell-Script-Wifi/LICENSE) pour plus d’informations.
 
 ---
 
