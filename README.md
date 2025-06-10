@@ -34,11 +34,11 @@ foreach ($ssid in $profiles) {
         $password = "Not Available"
     }
     Write-Output "SSID: $ssid | Password: $password"
-}
+}```
 
 👤 Auteur
 Skykiller099
- * GitHub: https://github.com/Skykiller099
+ GitHub: https://github.com/Skykiller099
 
 
 📄 Licence
