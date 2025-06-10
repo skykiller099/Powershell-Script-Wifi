@@ -1,7 +1,7 @@
 
 # 📡 WiFi Password Viewer (Windows PowerShell)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Skykiller099/WiFi-Password-Viewer?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Skykiller099/Powershell-Script-Wifi?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Skykiller099/Powershell-Script-Wifi?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
