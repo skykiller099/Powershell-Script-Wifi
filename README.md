@@ -92,7 +92,7 @@ Les contributions sont les bienvenues !
 ## 📄 Licence
 
 Ce projet est sous licence MIT.  
-Voir le fichier [LICENSE](https://github.com/Skykiller099/Powershell-Script-Wifi/LICENSE) pour plus d’informations.
+Voir le fichier [LICENSE](https://github.com/Skykiller099/Powershell-Script-Wifi/LICENSE.md) pour plus d’informations.
 
 ---
 
