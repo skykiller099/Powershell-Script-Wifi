@@ -1,4 +1,4 @@
-9# 📡 WiFi Password Viewer (Windows PowerShell)
+#📡 WiFi Password Viewer (Windows PowerShell)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skykiller099/Powershell-Script-Wifi?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Skykiller099/Powershell-Script-Wifi?style=for-the-badge)
